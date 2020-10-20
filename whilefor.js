@@ -25,11 +25,11 @@
 
 //задача 7
 
-let number = 10;
-
-restart: for (let i = 2; i <= number; i++) {
-    for (let j = 2; j < i; j++) {
-        if (i % j == 0) continue restart;
-    }
-    alert(i)
-}
+//let number = 10;
+//
+//restart: for (let i = 2; i <= number; i++) {
+//    for (let j = 2; j < i; j++) {
+//        if (i % j == 0) continue restart;
+//    }
+//    alert(i)
+//}
