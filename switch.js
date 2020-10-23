@@ -1,4 +1,5 @@
 //Задание 1
+//Напишите if..else, соответствующий следующему switch:
 
 //let browser = prompt('enter your browsers name')
 //
@@ -12,6 +13,8 @@
 
 
 //Задание 2
+//Перепишите код с использованием одной конструкции switch:
+
 
 //let number = +prompt('enter a number')
 //

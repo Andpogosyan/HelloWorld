@@ -1,3 +1,5 @@
-let name = prompt('Enter your name','');
+//Создайте страницу, которая спрашивает имя у пользователя и выводит его.
 
-alert(`Hello ${name}`);
+// let name = prompt('Enter your name','');
+
+// alert(`Hello ${name}`);
